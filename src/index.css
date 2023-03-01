@@ -184,6 +184,9 @@ p {
   .photo {
     height: 175px;
   }
+  .filter-btn{
+    padding: 0.375rem 0.75rem;
+  }
 }
 @media screen and (min-width: 1200px) {
   .section-center {
